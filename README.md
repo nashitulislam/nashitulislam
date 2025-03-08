@@ -9,7 +9,7 @@
 - [Mubashar Nouman](https://www.youtube.com/channel/UC6lUUWMyuiibsJzV8BNdaEQ)
  -->
 
-🤵 Founder & CEO of @techviochats @internee.pk 🤖
+🤵 Studyingg at @PRIMROSE 🤖
 	
 👨‍💻 AI Engineer CargoAI
 	
