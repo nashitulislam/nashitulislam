@@ -62,9 +62,9 @@
 </table>
 </p>
 <p align="center">
-<a href="https://www.linkedin.com/in/muhammad-nashit-579676352?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"/></a>
+<a href="https://www.linkedin.com/in/muhammad-nashit-579676352?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/-nashit%20Sheikh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:muhammadnashitulislam@gmail.com"><img src="https://img.shields.io/badge/-muhammadnashitulislam@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/nashit_ul_islam?igsh=Z2Zxb2NpYXA2MG5y"><img src="https://img.shields.io/badge/-@hammad2980-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.instagram.com/nashit_ul_islam?igsh=Z2Zxb2NpYXA2MG5y"><img src="https://img.shields.io/badge/-@nashit-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
  </p>
  
 <br>
